@@ -262,3 +262,13 @@ ul a{
 .copyright{
     padding-top: 5px;
 }
+
+/* ===== media query ===== */
+@media  (max-width: 600px) {
+    .navbar{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
