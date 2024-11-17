@@ -264,11 +264,3 @@ ul a{
 }
 
 /* ===== media query ===== */
-@media  (max-width: 600px) {
-    .navbar{
-        height: auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-}
